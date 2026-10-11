@@ -2,11 +2,8 @@
 ### 1. Which of the following best represents the meaning of resource pooling in cloud computing?
 
 - A. Every customer receives a permanently dedicated physical server.
-
 - B. Computing resources are dynamically assigned to multiple customers using a shared infrastructure.
-
 - C. Resources can only be accessed from a local network.
-
 - D. Users must manually allocate hardware before using cloud services.
 
 **Correct Answer:** B
@@ -16,11 +13,8 @@
 ### 2. A startup rents virtual servers on Amazon EC2. The team installs and patches its own operating system, configures the web server, and manages the runtime and applications itself. The provider supplies only the virtualized compute, storage, and networking. This is best classified as:
 
 - A. SaaS
-
 - B. PaaS
-
 - C. IaaS
-
 - D. FaaS
 
 **Correct Answer:** C
@@ -30,11 +24,8 @@
 ### 3. Which deployment model allows an organization to maintain cloud infrastructure exclusively for its own use, either on-premises or hosted by a third party?
 
 - A. Public Cloud
-
 - B. Hybrid Cloud
-
 - C. Community Cloud
-
 - D. Private Cloud
 
 **Correct Answer:** D
@@ -44,11 +35,8 @@
 ### 4. Virtualization technology allows multiple virtual machines (VMs) to run on a single physical system or on a cluster of physical systems. Which of the following statements is the MOST accurate?
 
 - A. Each VM always shares the same operating system kernel with the host OS.
-
 - B. Multiple VMs can run different operating systems on the same physical machine simultaneously.
-
 - C. Virtualization is only possible in cloud computing environments.
-
 - D. Virtualization prevents resource overcommitment on the host system.
 
 **Correct Answer:** B
@@ -62,11 +50,8 @@
 Choose the MOST APPROPRIATE option:
 
 - A. (i) and (ii)
-
 - B. Only (iii)
-
 - C. (i) and (iii)
-
 - D. (i), (ii), and (iii)
 
 **Correct Answer:** A
@@ -76,11 +61,8 @@ Choose the MOST APPROPRIATE option:
 ### 6. The combination of Service-Oriented Architecture (SOA) and Cloud Computing led to a paradigm where almost any IT capability can be delivered as a network-accessible service. This is often referred to as:
 
 - A. FTP
-
 - B. SNTP
-
 - C. XaaS
-
 - D. FaaS
 
 **Correct Answer:** C
@@ -90,11 +72,8 @@ Choose the MOST APPROPRIATE option:
 ### 7. Which of the following correctly describes a Type-2 (hosted) hypervisor?
 
 - A. It runs directly on the physical hardware without any underlying operating system.
-
 - B. It runs as an application on top of a host operating system.
-
 - C. It always provides lower virtualization overhead than a Type-1 hypervisor.
-
 - D. It cannot run more than one virtual machine at a time.
 
 **Correct Answer:** B
@@ -108,11 +87,8 @@ Choose the MOST APPROPRIATE option:
 (iv) Faster application deployment.
 
 - A. (i), (ii), and (iv)
-
 - B. (ii) and (iii)
-
 - C. (i) and (iii)
-
 - D. (i), (ii), (iii), and (iv)
 
 **Correct Answer:** A
@@ -122,11 +98,8 @@ Choose the MOST APPROPRIATE option:
 ### 9. Which of the following services is most likely to be classified as Infrastructure as a Service (IaaS)?
 
 - A. Microsoft Word Online
-
 - B. Amazon EC2 Virtual Machines
-
 - C. Google Docs
-
 - D. Salesforce CRM
 
 **Correct Answer:** B
@@ -136,11 +109,8 @@ Choose the MOST APPROPRIATE option:
 ### 10. A __________ is a form of distributed computing in which a large number of geographically dispersed and often heterogeneous resources across multiple administrative domains are loosely coupled and coordinated to work together on a common, large-scale task.
 
 - A. Cluster
-
 - B. Grid
-
 - C. Node
-
 - D. Hypervisor
 
 **Correct Answer:** B
@@ -150,11 +120,8 @@ Choose the MOST APPROPRIATE option:
 ### 1. A virtualization solution requires the guest operating system to invoke hypercalls instead of executing certain privileged instructions directly. This approach is known as:
 
 - A. Full Virtualization
-
 - B. Hardware-assisted Virtualization
-
 - C. Para-virtualization
-
 - D. Containerization
 
 **Correct Answer:** C
@@ -164,11 +131,8 @@ Choose the MOST APPROPRIATE option:
 ### 2. Which of the following is a key characteristic of full (hardware-assisted) virtualization, as opposed to para-virtualization?
 
 - A. Guest OS must be modified to issue hypercalls to the hypervisor.
-
 - B. Guest OS runs unmodified, with the hypervisor and CPU extensions handling privileged instructions.
-
 - C. Guest and host must share the same operating system kernel.
-
 - D. No hypervisor is involved at all.
 
 **Correct Answer:** B
@@ -178,11 +142,8 @@ Choose the MOST APPROPRIATE option:
 ### 3. Which statement about a public cloud is MOST accurate?
 
 - A. It is dedicated to, and controlled by, a single organization behind its own firewall.
-
 - B. Its infrastructure is provisioned for open use by the general public and is owned and operated by a cloud service provider.
-
 - C. It is shared only among organizations that have common regulatory concerns.
-
 - D. It always guarantees stronger data isolation than a private cloud.
 
 **Correct Answer:** B
@@ -192,11 +153,8 @@ Choose the MOST APPROPRIATE option:
 ### 4. An application must repeatedly navigate, randomly access, and modify elements of a moderately sized XML document held in memory. Which XML parser API is MOST appropriate?
 
 - A. SAX (push-based, event-driven, forward-only)
-
 - B. StAX (pull-based, event-driven, forward-only)
-
 - C. DOM (builds an in-memory tree allowing random access and modification)
-
 - D. None; an XML document cannot be modified once parsed
 
 **Correct Answer:** C
@@ -206,11 +164,8 @@ Choose the MOST APPROPRIATE option:
 ### 5. Which statement correctly distinguishes a 'host OS', a 'guest OS', and a 'hypervisor'?
 
 - A. The host OS runs inside a VM, the guest OS runs on bare metal, and the hypervisor is a user application.
-
 - B. The hypervisor creates and manages VMs; each guest OS runs inside a VM; and for a Type-2 hypervisor, the host OS is the OS on which the hypervisor runs.
-
 - C. The guest OS and host OS are always identical copies of the same operating system.
-
 - D. The hypervisor is simply the hardware layer located beneath the host OS.
 
 **Correct Answer:** B
@@ -223,11 +178,8 @@ Choose the MOST APPROPRIATE option:
 (iii) Network latency between users and cloud resources
 
 - A. Only (i)
-
 - B. (i) and (ii)
-
 - C. (ii) and (iii)
-
 - D. (i), (ii), and (iii)
 
 **Correct Answer:** D
@@ -237,11 +189,8 @@ Choose the MOST APPROPRIATE option:
 ### 7. In the traditional web services stack, which technology is used to describe a web service's interface — its operations, input/output messages, and how to invoke it?
 
 - A. UDDI
-
 - B. WSDL
-
 - C. SMTP
-
 - D. HTML
 
 **Correct Answer:** B
@@ -255,11 +204,8 @@ Choose the MOST APPROPRIATE option:
 (iv) Guaranteed microsecond-level response latency
 
 - A. (i), (ii), and (iii)
-
 - B. (ii) and (iv)
-
 - C. Only (i)
-
 - D. All of the above
 
 **Correct Answer:** A
@@ -273,11 +219,8 @@ Choose the MOST APPROPRIATE option:
 (iv) Service discovery through registries like UDDI
 
 - A. Only (i) and (ii) are addressed
-
 - B. (i), (ii), and (iv) are addressed; (iii) is NOT addressed
-
 - C. Only (ii) is addressed
-
 - D. All are addressed
 
 **Correct Answer:** B
@@ -287,11 +230,8 @@ Choose the MOST APPROPRIATE option:
 ### 10. In the Service-Oriented Architecture (SOA) model, which set of operations correctly maps the interactions among the service provider, service registry, and service requestor?
 
 - A. Publish (provider → registry), Find (requestor → registry), Bind (requestor → provider)
-
 - B. Publish (requestor → provider), Find (provider → registry), Bind (registry → requestor)
-
 - C. Bind (provider → registry), Publish (requestor → registry), Find (provider → requestor)
-
 - D. Find (provider → registry), Publish (requestor → registry), Bind (provider → provider)
 
 **Correct Answer:** A
@@ -301,11 +241,8 @@ Choose the MOST APPROPRIATE option:
 ### 1. Which of the following is least likely to be specified in an operational cloud Service Level Agreement(SLA)?
 
 - A. Recovery Time Objective (RTO)
-
 - B. Exact encryption algorithm and key storage procedures
-
 - C. Mean Time To Repair (MTTR) for incidents
-
 - D. Penalty / credit calculation for downtime
 
 **Correct Answer:** B
@@ -318,11 +255,8 @@ Choose the MOST APPROPRIATE option:
 (iii) Service Level
 
 - A. Only (i)
-
 - B. (i) and (ii)
-
 - C. (ii) and (iii)
-
 - D. (i), (ii), and (iii)
 
 **Correct Answer:** D
@@ -332,11 +266,8 @@ Choose the MOST APPROPRIATE option:
 ### 3. An enterprise signs a three-tier multilevel SLA with a cloud provider. However, the corporate-level SLA guarantees 95% uptime, the customer-level SLA specifies 98% uptime, and the service-level SLA guarantees 99.9% uptime. In case of a service disruption, which level of SLA is the provider LEGALLY BOUND to honor?
 
 - A. Corporate-level SLA, as it's the broadest agreement
-
 - B. Customer-level SLA, as it's the middle ground
-
 - C. Service-level SLA, as it's the most specific agreement
-
 - D. The provider can choose the lowest applicable SLA
 
 **Correct Answer:** C
@@ -346,11 +277,8 @@ Choose the MOST APPROPRIATE option:
 ### 4. Which pair of metrics is most directly used to quantify the reliability and recoverability commitments in a cloud SLA?
 
 - A. Availability (uptime %) and Mean Time To Recovery (MTTR)
-
 - B. Lines of code and number of microservices
-
 - C. Number of employees and office locations
-
 - D. CPU clock speed and RAM size of the servers
 
 **Correct Answer:** A
@@ -360,11 +288,8 @@ Choose the MOST APPROPRIATE option:
 ### 5. A cloud service guarantees 99.9% availability per 30-day month. What is the maximum allowable downtime in that month under the SLA? (Assume 30 days = 720 hours.)
 
 - A. About 0.72 hours
-
 - B. About 7.2 hours
-
 - C. About 3.6 hours
-
 - D. About 72 minutes
 
 **Correct Answer:** A
@@ -374,11 +299,8 @@ Choose the MOST APPROPRIATE option:
 ### 6. Which feature primarily enables a parallel database to process large analytical queries faster than a traditional database?
 
 - A. Exclusive use of SQL
-
 - B. Distributed query execution across multiple computing nodes
-
 - C. Elimination of indexing
-
 - D. Storing all data in a single server
 
 **Correct Answer:** B
@@ -395,11 +317,8 @@ Apply per-transaction rules and short sliding-window aggregations
 Which architectural choice is LEAST suitable?
 
 - A. Apache Kafka feeding Apache Flink for continuous stream processing
-
 - B. Amazon Kinesis with a real-time stream-processing application
-
 - C. A nightly batch job on a data warehouse that scans the day's transactions
-
 - D. Apache Pulsar with a stream processor for windowed aggregation
 
 **Correct Answer:** C
@@ -409,11 +328,8 @@ Which architectural choice is LEAST suitable?
 ### 8. A company stores petabytes of satellite imagery that must be processed in parallel by Spark clusters. Which storage system is most suitable?
 
 - A. Local SSD attached to a single virtual machine
-
 - B. Object storage such as Amazon S3 or Google Cloud Storage
-
 - C. Relational database server
-
 - D. Client-side browser cache
 
 **Correct Answer:** B
@@ -423,11 +339,8 @@ Which architectural choice is LEAST suitable?
 ### 9. A MapReduce job is designed to count word frequencies in 2 TB of text files. The mapper output is 1.5 TB (including overhead), and after the shuffle and sort phase, the data is 1.3 TB. During the reduce phase, a node runs out of disk space during the merge operation. Which of the following is the most likely cause and solution?
 
 - A. The mapper logic is inefficient; rewrite the mapper function
-
 - B. The combiner phase didn't run; ensure combiner is explicitly configured to compress intermediate data locally
-
 - C. The shuffle and sort didn't deduplicate keys; increase the number of reducers
-
 - D. The network bandwidth is saturated; add more nodes to the cluster
 
 **Correct Answer:** B
@@ -437,11 +350,8 @@ Which architectural choice is LEAST suitable?
 ### 10. An OpenStack compute node contains 640 physical vCPUs. If the CPU allocation ratio is 5:1, what is the maximum number of virtual CPUs that may be allocated?
 
 - A. 3000
-
 - B. 3200
-
 - C. 3400
-
 - D. 3500
 
 **Correct Answer:** B
@@ -451,11 +361,8 @@ Which architectural choice is LEAST suitable?
 ### 1. Which Azure SQL Database service tier separates compute and storage so that storage can automatically grow up to 100 TB without requiring application downtime?
 
 - A. Basic
-
 - B. Business Critical
-
 - C. Hyperscale
-
 - D. Standard
 
 **Correct Answer:** C
@@ -465,11 +372,8 @@ Which architectural choice is LEAST suitable?
 ### 2. One company deploys two Azure Virtual Machines in different Availability Zones within the same Azure region. One data center experiences a complete power outage. Which statement is correct?
 
 - A. Both VMs will become unavailable because they are in the same region.
-
 - B. The second VM can continue running because Availability Zones are isolated from each other.
-
 - C. Azure automatically moves the failed VM to another region.
-
 - D. Both VMs share the same cooling and networking infrastructure.
 
 **Correct Answer:** B
@@ -479,11 +383,8 @@ Which architectural choice is LEAST suitable?
 ### 3. Which App Service pricing tier supports the highest number of deployment slots?
 
 - A. Basic
-
 - B. Standard
-
 - C. Premium (P1v3 and higher)
-
 - D. Free
 
 **Correct Answer:** C
@@ -493,11 +394,8 @@ Which architectural choice is LEAST suitable?
 ### 4. An administrator notices that users can still access an Azure App Service website using http://. Which App Service configuration should be enabled to prevent unencrypted access?
 
 - A. Managed Identity
-
 - B. Always On
-
 - C. HTTPS Only
-
 - D. Deployment Slots
 
 **Correct Answer:** C
@@ -507,11 +405,8 @@ Which architectural choice is LEAST suitable?
 ### 5. Which Google Cloud database service is designed specifically for structured relational data with global consistency and horizontal scalability?
 
 - A. Firestore
-
 - B. Cloud SQL
-
 - C. Cloud Spanner
-
 - D. Memorystore
 
 **Correct Answer:** C
@@ -521,11 +416,8 @@ Which architectural choice is LEAST suitable?
 ### 6. A virtual machine requires an additional 100 GB persistent disk that should remain intact even after the VM is terminated. Which OpenStack service manages this storage?
 
 - A. Nova
-
 - B. Swift
-
 - C. Cinder
-
 - D. Keystone
 
 **Correct Answer:** C
@@ -535,11 +427,8 @@ Which architectural choice is LEAST suitable?
 ### 7. Which statement correctly distinguishes GKE from Cloud Run?
 
 - A. GKE only supports virtual machines.
-
 - B. Cloud Run requires users to manage Kubernetes clusters.
-
 - C. GKE manages Kubernetes clusters, while Cloud Run executes containers without requiring cluster management.
-
 - D. Both services require manual Kubernetes control plane management.
 
 **Correct Answer:** C
@@ -549,11 +438,8 @@ Which architectural choice is LEAST suitable?
 ### 8. A company collects millions of IoT sensor events every minute. The data must be ingested in real time, stored in a scalable analytical warehouse, and visualized through interactive dashboards. Which GCP architecture best satisfies these requirements?
 
 - A. Cloud SQL + Cloud Functions + Looker
-
 - B. Pub/Sub + BigQuery + Looker Studio
-
 - C. Firestore + Compute Engine + Bigtable
-
 - D. Cloud Storage + Memorystore + App Engine
 
 **Correct Answer:** B
@@ -563,11 +449,8 @@ Which architectural choice is LEAST suitable?
 ### 9. A DevOps engineer wants to route all production traffic to version v3 of an App Engine service. Which command is correct?
 
 - A. gcloud app services set-traffic default --splits=v3=1
-
 - B. gcloud app deploy --traffic=v3
-
 - C. gcloud app versions promote v3
-
 - D. gcloud app services update v3
 
 **Correct Answer:** A
@@ -577,11 +460,8 @@ Which architectural choice is LEAST suitable?
 ### 10. Which OpenStack service is primarily responsible for routing tenant traffic between internal and external networks?
 
 - A. Nova
-
 - B. Neutron
-
 - C. Keystone
-
 - D. Swift
 
 **Correct Answer:** B
@@ -591,11 +471,8 @@ Which architectural choice is LEAST suitable?
 ### 1. A cloud provider guarantees 99% availability. A customer's application operates 12 hours per day. What is the maximum allowable downtime during a 30-day month without violating the SLA?
 
 - A. 3.6 hours
-
 - B. 6 hours
-
 - C. 7.2 hours
-
 - D. 9 hours
 
 **Correct Answer:** A
@@ -605,11 +482,8 @@ Which architectural choice is LEAST suitable?
 ### 2. A cloud server dynamically activates additional CPU cores to handle a sudden spike in user requests. What is the most likely impact on the server's power consumption?
 
 - A. Power consumption decreases because the workload is distributed.
-
 - B. Power consumption remains unchanged since CPU frequency is fixed.
-
 - C. Power consumption increases as additional CPU cores become active.
-
 - D. Power consumption depends only on the amount of RAM used.
 
 **Correct Answer:** C
@@ -619,11 +493,8 @@ Which architectural choice is LEAST suitable?
 ### 3. Which cloud characteristic most directly helps organizations avoid large upfront hardware investments?
 
 - A. Elastic scalability
-
 - B. Pay-as-you-go pricing
-
 - C. Fault tolerance
-
 - D. Multi-tenancy
 
 **Correct Answer:** B
@@ -633,11 +504,8 @@ Which architectural choice is LEAST suitable?
 ### 4. An HDFS cluster has a block size of 128 MB. A 700 MB input file is processed using MapReduce. Assuming one map task per HDFS block, how many map tasks are created?
 
 - A. 5
-
 - B. 6
-
 - C. 7
-
 - D. 8
 
 **Correct Answer:** B
@@ -647,11 +515,8 @@ Which architectural choice is LEAST suitable?
 ### 5. Which virtualization component is primarily responsible for creating and managing virtual machines?
 
 - A. Operating System Kernel
-
 - B. Hypervisor
-
 - C. BIOS
-
 - D. Device Driver
 
 **Correct Answer:** B
@@ -661,11 +526,8 @@ Which architectural choice is LEAST suitable?
 ### 6. Which MapReduce component determines which Reducer receives a particular key?
 
 - A. Combiner
-
 - B. Partitioner
-
 - C. RecordWriter
-
 - D. InputSplit
 
 **Correct Answer:** B
@@ -675,11 +537,8 @@ Which architectural choice is LEAST suitable?
 ### 7. Which MapReduce component is optional and may execute zero, one, or multiple times?
 
 - A. Mapper
-
 - B. Reducer
-
 - C. Combiner
-
 - D. RecordReader
 
 **Correct Answer:** C
@@ -689,11 +548,8 @@ Which architectural choice is LEAST suitable?
 ### 8. A cloud provider observes that many physical servers are running at only 15% CPU utilization. To reduce electricity costs, it migrates virtual machines onto fewer servers and powers off the idle hosts while ensuring that application performance remains within SLA limits. Which scheduling strategy is being applied?
 
 - A. Round-Robin Scheduling
-
 - B. Energy-Aware Scheduling
-
 - C. First-Come-First-Serve Scheduling
-
 - D. Fair Scheduling
 
 **Correct Answer:** B
@@ -704,11 +560,8 @@ Which architectural choice is LEAST suitable?
 Statement 2: Elasticity helps organizations avoid paying for unused computing resources.
 
 - A. Both statements are true.
-
 - B. Both statements are false.
-
 - C. Statement 1 is true and Statement 2 is false.
-
 - D. Statement 1 is false and Statement 2 is true.
 
 **Correct Answer:** A
@@ -718,11 +571,8 @@ Statement 2: Elasticity helps organizations avoid paying for unused computing re
 ### 10. Average demand = 75 units, Peak demand = 225 units, The cloud provider offers a utility premium of 2.8. Which statement is true?
 
 - A. Cloud cost < Owning cost
-
 - B. Cloud cost > Owning cost
-
 - C. Both costs are equal
-
 - D. None of the above
 
 **Correct Answer:** A
@@ -732,11 +582,8 @@ Statement 2: Elasticity helps organizations avoid paying for unused computing re
 ### 1. A database stores customer records in encrypted form. However, an administrator accidentally changes several account balances due to a software bug. Which security objective has failed?
 
 - A. Confidentiality only
-
 - B. Integrity only
-
 - C. Availability only
-
 - D. Confidentiality and Availability
 
 **Correct Answer:** B
@@ -746,11 +593,8 @@ Statement 2: Elasticity helps organizations avoid paying for unused computing re
 ### 2. An employee logs into a fake VPN portal that perfectly imitates the company's official login page. Before any credentials are entered, which security property has already been compromised?
 
 - A. Confidentiality
-
 - B. Integrity
-
 - C. Availability
-
 - D. Authenticity
 
 **Correct Answer:** D
@@ -760,11 +604,8 @@ Statement 2: Elasticity helps organizations avoid paying for unused computing re
 ### 3. Which of the following attacks is NOT considered a passive attack?
 
 - A. Packet sniffing
-
 - B. Traffic analysis
-
 - C. Session hijacking
-
 - D. Network monitoring
 
 **Correct Answer:** C
@@ -774,11 +615,8 @@ Statement 2: Elasticity helps organizations avoid paying for unused computing re
 ### 4. Which of the following attacks cannot directly modify the contents of transmitted data?
 
 - A. Replay attack
-
 - B. Man-in-the-Middle attack
-
 - C. Eavesdropping
-
 - D. Masquerading
 
 **Correct Answer:** C
@@ -788,11 +626,8 @@ Statement 2: Elasticity helps organizations avoid paying for unused computing re
 ### 5. Which of the following best describes a Denial-of-Service (DoS) attack?
 
 - A. An attacker secretly monitors network traffic without modifying it.
-
 - B. An attacker floods a server with excessive requests, making the service unavailable to legitimate users.
-
 - C. An attacker impersonates a legitimate user to gain unauthorized access.
-
 - D. An attacker modifies data during transmission between two communicating parties.
 
 **Correct Answer:** B
@@ -802,11 +637,8 @@ Statement 2: Elasticity helps organizations avoid paying for unused computing re
 ### 6. Which of the following activities is least likely to be considered part of the reconnaissance phase?
 
 - A. Performing DNS enumeration to identify subdomains
-
 - B. Scanning the target to discover open ports and running services
-
 - C. Exploiting a buffer overflow vulnerability to gain administrator privileges
-
 - D. Searching public websites and social media for organizational information
 
 **Correct Answer:** C
@@ -817,11 +649,8 @@ Statement 2: Elasticity helps organizations avoid paying for unused computing re
 Statement II: Authorization determines what actions an authenticated user is permitted to perform.
 
 - A. Statement I is TRUE and Statement II is FALSE.
-
 - B. Statement I is FALSE and Statement II is TRUE.
-
 - C. Both statements are TRUE.
-
 - D. Both statements are FALSE.
 
 **Correct Answer:** B
@@ -831,11 +660,8 @@ Statement II: Authorization determines what actions an authenticated user is per
 ### 8. A financial institution must install a custom Linux kernel module, configure firewall rules at the operating system level, and deploy proprietary database software. However, it does not want to purchase or maintain physical servers. Which cloud service model is most appropriate?
 
 - A. SaaS
-
 - B. PaaS
-
 - C. IaaS
-
 - D. FaaS
 
 **Correct Answer:** C
@@ -845,11 +671,8 @@ Statement II: Authorization determines what actions an authenticated user is per
 ### 9. An organization discovers that backups of its confidential data are automatically replicated to another country without its knowledge. Which cloud security concern has been violated?
 
 - A. Data Location
-
 - B. Recovery
-
 - C. Virtualization
-
 - D. Resource Pooling
 
 **Correct Answer:** A
@@ -859,11 +682,8 @@ Statement II: Authorization determines what actions an authenticated user is per
 ### 10. Which of the following cloud design practices is most effective in reducing vendor lock-in?
 
 - A. Using provider-specific APIs whenever possible
-
 - B. Developing applications using open standards and portable technologies
-
 - C. Storing data only in proprietary database formats
-
 - D. Relying exclusively on managed proprietary services
 
 **Correct Answer:** B
@@ -873,11 +693,8 @@ Statement II: Authorization determines what actions an authenticated user is per
 ### 1. Which of the following applications is least suitable for computation offloading to a remote cloud in Mobile Cloud Computing (MCC)?
 
 - A. Image rendering requiring intensive GPU computation
-
 - B. Large-scale machine learning inference
-
 - C. Emergency collision avoidance requiring millisecond response
-
 - D. Video transcoding
 
 **Correct Answer:** C
@@ -887,11 +704,8 @@ Statement II: Authorization determines what actions an authenticated user is per
 ### 2. A cloud-based mobile application automatically allocates additional computing resources during a sudden surge in users and releases them when demand decreases. Which cloud characteristic is demonstrated?
 
 - A. Resource pooling
-
 - B. Rapid elasticity
-
 - C. Location independence
-
 - D. Broad network access
 
 **Correct Answer:** B
@@ -901,11 +715,8 @@ Statement II: Authorization determines what actions an authenticated user is per
 ### 3. Dynamic computation offloading primarily aims to optimize which combination of objectives?
 
 - A. Screen brightness and storage capacity
-
 - B. Execution time, energy consumption, and resource utilization
-
 - C. Camera quality and display refresh rate
-
 - D. Cloud subscription cost only
 
 **Correct Answer:** B
@@ -915,11 +726,8 @@ Statement II: Authorization determines what actions an authenticated user is per
 ### 4. A mobile augmented reality application requires object recognition with an end-to-end response time below 20 ms. Which infrastructure is most appropriate?
 
 - A. A geographically distant public cloud data center
-
 - B. A nearby cloudlet connected through a high-speed local network
-
 - C. Local storage only
-
 - D. An offline mobile application
 
 **Correct Answer:** B
@@ -929,11 +737,8 @@ Statement II: Authorization determines what actions an authenticated user is per
 ### 5. A healthcare application stores patient records in the cloud. Which security requirement is most critical to ensure that unauthorized users cannot access sensitive medical information?
 
 - A. Elasticity
-
 - B. Data confidentiality
-
 - C. Resource pooling
-
 - D. Load balancing
 
 **Correct Answer:** B
@@ -943,11 +748,8 @@ Statement II: Authorization determines what actions an authenticated user is per
 ### 6. Which limitation of traditional cloud computing is primarily addressed by fog computing?
 
 - A. Limited virtualization support
-
 - B. High network latency caused by distant cloud data centers
-
 - C. Lack of cloud storage
-
 - D. Insufficient computing power in cloud servers
 
 **Correct Answer:** B
@@ -957,11 +759,8 @@ Statement II: Authorization determines what actions an authenticated user is per
 ### 7. Which statement about fog nodes is FALSE?
 
 - A. They may perform filtering and aggregation of sensor data.
-
 - B. They are usually located close to IoT devices.
-
 - C. They permanently store all enterprise data.
-
 - D. They reduce communication with distant cloud servers.
 
 **Correct Answer:** C
@@ -972,11 +771,8 @@ Statement II: Authorization determines what actions an authenticated user is per
 Statement 2: Distributed storage and parallel processing frameworks reduce execution time for large geospatial datasets compared with a single desktop workstation.
 
 - A. Both Statement 1 and Statement 2 are true, and Statement 2 is the correct explanation of Statement 1
-
 - B. Both Statement 1 and Statement 2 are true, but Statement 2 is not the correct explanation of Statement 1
-
 - C. Statement 1 is true, but Statement 2 is false
-
 - D. Statement 1 is false, but Statement 2 is true
 
 **Correct Answer:** A
@@ -986,11 +782,8 @@ Statement 2: Distributed storage and parallel processing frameworks reduce execu
 ### 9. A cloud platform divides a large raster image into tiles for parallel processing. Which challenge must be carefully addressed to ensure accurate results?
 
 - A. Screen resolution of client devices
-
 - B. Boundary effects between adjacent image tiles
-
 - C. Keyboard input latency
-
 - D. Number of GIS users
 
 **Correct Answer:** B
@@ -1000,27 +793,53 @@ Statement 2: Distributed storage and parallel processing frameworks reduce execu
 ### 10. A wearable ECG sensor continuously streams a patient's heart signals. Which architecture is most appropriate to detect cardiac abnormalities within a few milliseconds?
 
 - A. IoT sensors → Remote Cloud → Physician
-
 - B. IoT sensors → Fog/Edge Node → Cloud
-
 - C. IoT sensors → Local Storage → Weekly Upload
-
 - D. IoT sensors → FTP Server → Desktop GIS
 
 **Correct Answer:** B
 
 **Solution:** Delay-sensitive healthcare applications require immediate processing at nearby fog/edge nodes. The cloud is mainly used for long-term storage, historical analysis, and model training.
 ## Week 8
-(Note: The provided source file only includes questions 4, 5, and 6 for this section.)
+
+### 1. Which command is used to remove a Docker image that is no longer required?
+
+- A. docker rm
+- B. docker rmi
+- C. docker delete
+- D. docker remove
+
+**Correct Answer:** B
+
+**Solution:** docker rmi removes one or more Docker images from the local system. docker rm is used to remove containers, not images.
+
+### 2. Which Docker command is primarily used to list all available Docker networks?
+
+- A. docker network ls
+- B. docker network show
+- C. docker net ps
+- D. docker networks
+
+**Correct Answer:** A
+
+**Solution:** docker network ls displays all Docker networks available on the host. It shows information such as network ID, name, driver, and scope.
+
+### 3. Which of the following is the most accurate comparison between VMs and containers?
+
+- A. VMs share the host kernel, while containers have separate kernels
+- B. Containers generally share the host kernel, while VMs virtualize hardware and run separate guest OS kernels
+- C. Both always require separate guest operating systems
+- D. Containers require more resources than VMs because they include a complete OS
+
+**Correct Answer:** B
+
+**Solution:** A VM typically includes a complete guest OS and its own kernel, operating on virtualized hardware. Containers share the host kernel and isolate applications at the operating- system level, making them generally lighter than VMs.
 
 ### 4. What is the primary role of etcd in a Kubernetes cluster?
 
 - A. Running application containers
-
 - B. Storing Kubernetes cluster state and configuration data
-
 - C. Scheduling Pods onto Nodes
-
 - D. Providing container images
 
 **Correct Answer:** B
@@ -1030,11 +849,8 @@ Statement 2: Distributed storage and parallel processing frameworks reduce execu
 ### 5. Which of the following is an example of a Type 2 (hosted) hypervisor?
 
 - A. VMware ESXi
-
 - B. Xen
-
 - C. Oracle VirtualBox
-
 - D. Microsoft Hyper-V Server
 
 **Correct Answer:** C
@@ -1044,23 +860,66 @@ Statement 2: Distributed storage and parallel processing frameworks reduce execu
 ### 6. A cloud data center has 100 physical servers, but only 40 are heavily utilized while the remaining servers operate at very low utilization. Which strategy would MOST effectively reduce energy consumption?
 
 - A. Distribute VMs equally across all 100 servers
-
 - B. Consolidate VMs onto fewer servers and switch idle servers to a low-power state
-
 - C. Increase CPU frequency on all servers
-
 - D. Duplicate every VM across multiple servers
 
 **Correct Answer:** B
+
+**Solution:** VM consolidation migrates workloads from lightly loaded servers onto fewer physical machines. Underutilized servers can then be switched to sleep or power-off states, reducing unnecessary energy consumption.
+
+### 7. In a Sensor Cloud environment, why is a middleware layer often required between Wireless Sensor Networks (WSNs) and cloud services?
+
+- A. To increase the physical size of sensor nodes
+- B. To abstract heterogeneous sensors and provide cloud-accessible sensor resources
+- C. To eliminate all communication between sensors
+- D. To replace the sensing function of WSN nodes
+
+**Correct Answer:** B
+
+**Solution:** A middleware layer provides an abstraction between resource-constrained, heterogeneous sensor networks and cloud platforms. It can handle resource discovery, data collection, protocol translation, virtualization/abstraction, and service management, allowing cloud applications to access sensor resources more conveniently.
+
+### 8. Which architecture is generally BEST suited for applications requiring both low latency and large- scale cloud analytics?
+
+- A. IoT Device → Cloud only
+- B. IoT Device → Edge/Fog → Cloud
+- C. IoT Device → Database only
+- D. IoT Device → Hypervisor → Cloud
+
+**Correct Answer:** B
+
+**Solution:** An Edge/Fog–Cloud architecture combines local processing for latency- sensitive tasks with cloud resources for large-scale storage, historical analysis, and computationally intensive workloads.
+
+### 9. An IoT application sends sensitive sensor data through public networks to a cloud platform. Which mechanism is MOST important for protecting the data during transmission?
+
+- A. Data encryption
+- B. Increasing CPU frequency
+- C. Increasing sensor sampling rate
+- D. VM consolidation
+
+**Correct Answer:** A
+
+**Solution:** Encryption protects data while it travels between IoT devices, gateways, and cloud services. Secure communication protocols such as TLS can help prevent unauthorized parties from reading or modifying data in transit.
+
+### 10. Statement 1: Processing latency-sensitive IoT workloads at an edge node can reduce the communication delay associated with a distant cloud.
+
+Statement 2: Edge processing eliminates all network latency because no communication is required.
+
+- A. Statement 1 is True and Statement 2 is False
+- B. Statement 2 is True and Statement 1 is False
+- C. Both statements are True
+- D. Both statements are False
+
+**Correct Answer:** A
+
+**Solution:** Edge computing reduces latency by moving processing closer to the data source, but some communication latency still exists. Therefore, it does not eliminate network latency completely.
+
 ## Week 9
 ### 1. A factory requires machine-level anomaly detection within milliseconds, but it also needs to aggregate data from multiple machines for plant-wide analysis before sending summaries to the cloud. Which placement BEST matches the requirements?
 
 - A. All processing in the centralized cloud
-
 - B. Machine-level processing at the edge and plant-level processing at fog nodes
-
 - C. All processing directly on individual sensors
-
 - D. Plant-wide processing exclusively at the cloud
 
 **Correct Answer:** B
@@ -1070,11 +929,8 @@ Statement 2: Distributed storage and parallel processing frameworks reduce execu
 ### 2. A smart-city traffic system receives video streams from hundreds of cameras. Immediate object detection is performed near each camera, regional congestion patterns are analyzed at roadside micro-data centers, and long-term traffic trends are analyzed in the cloud. Which architecture BEST represents this system?
 
 - A. Cloud-only architecture
-
 - B. Fog-only architecture
-
 - C. Edge–Fog–Cloud architecture
-
 - D. Edge-only architecture
 
 **Correct Answer:** C
@@ -1084,11 +940,8 @@ Statement 2: Distributed storage and parallel processing frameworks reduce execu
 ### 3. An IoT system performs local filtering before forwarding data to the cloud. Which ordering BEST represents the typical amount of raw data transmitted toward centralized cloud infrastructure, from lowest to highest?
 
 - A. Edge processing → Fog processing → Cloud-only processing
-
 - B. Cloud-only processing → Fog processing → Edge processing
-
 - C. Fog processing → Cloud-only processing → Edge processing
-
 - D. Edge processing → Cloud-only processing → Fog processing
 
 **Correct Answer:** A
@@ -1098,11 +951,8 @@ Statement 2: Distributed storage and parallel processing frameworks reduce execu
 ### 4. A fog node is running out of memory, but the infrastructure allows additional RAM and CPU resources to be assigned to that same node. Which scalability approach is being used?
 
 - A. Horizontal scalability
-
 - B. Temporal scalability
-
 - C. Geographic scalability
-
 - D. Vertical scalability
 
 **Correct Answer:** D
@@ -1112,11 +962,8 @@ Statement 2: Distributed storage and parallel processing frameworks reduce execu
 ### 5. Which statement BEST describes the division of responsibilities in a hierarchical Edge–Fog–Cloud architecture?
 
 - A. Edge handles global optimization, while Cloud handles sensor-level decisions
-
 - B. Edge handles immediate local actions, Fog coordinates regional resources, and Cloud performs global orchestration
-
 - C. All three layers perform exactly the same tasks
-
 - D. Only the Cloud is allowed to make decisions
 
 **Correct Answer:** B
@@ -1126,11 +973,8 @@ Statement 2: Distributed storage and parallel processing frameworks reduce execu
 ### 6. A video analytics application requires its first-stage processing to occur within 10 ms of the camera, while its model-training component requires substantial computational resources. Which placement is MOST appropriate?
 
 - A. Both components on a distant cloud server
-
 - B. Both components on the smallest IoT device
-
 - C. First-stage processing at the edge and model training in the cloud
-
 - D. First-stage processing only in the cloud and training at the edge
 
 **Correct Answer:** C
@@ -1140,11 +984,8 @@ Statement 2: Distributed storage and parallel processing frameworks reduce execu
 ### 7. A mobile device is moving rapidly between coverage areas of different edge servers while executing an offloaded task. Which issue becomes MOST critical?
 
 - A. Static CPU allocation
-
 - B. Service migration and task continuity during handover
-
 - C. Cloud storage capacity
-
 - D. VM image size only
 
 **Correct Answer:** B
@@ -1154,11 +995,8 @@ Statement 2: Distributed storage and parallel processing frameworks reduce execu
 ### 8. A cloud application requires additional resources because its primary CSP has insufficient capacity. A broker identifies a suitable secondary CSP and negotiates the required service conditions. Which cloud-federation function is being performed?
 
 - A. Resource federation and inter-provider service provisioning
-
 - B. VM deletion within a single CSP
-
 - C. Local container orchestration
-
 - D. Hardware virtualization
 
 **Correct Answer:** A
@@ -1168,11 +1006,8 @@ Statement 2: Distributed storage and parallel processing frameworks reduce execu
 ### 9. Why is trust management particularly important in a cloud federation?
 
 - A. Resources and services may be obtained from independent providers with different security and reliability policies
-
 - B. All CSPs are automatically controlled by the same organization
-
 - C. Federation eliminates authentication requirements
-
 - D. Trust is required only for physical servers
 
 **Correct Answer:** A
@@ -1182,11 +1017,8 @@ Statement 2: Distributed storage and parallel processing frameworks reduce execu
 ### 10. Which is the PRIMARY advantage of a Hybrid Cloud Federation for an organization handling sensitive workloads?
 
 - A. It eliminates the need for security controls
-
 - B. It forces all workloads into the public cloud
-
 - C. It combines private-cloud control for sensitive workloads with public-cloud scalability
-
 - D. It prevents workload migration between environments
 
 **Correct Answer:** C
